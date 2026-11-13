@@ -1,0 +1,10 @@
+.DS_Store
+/vendor/
+/includes/secrets.php
+/cache/submissions/*
+/cache/rate/*
+/cache/sessions/
+/cache/pexels/
+/handlers/error_log
+error_log
+!/cache/submissions/.htaccess
